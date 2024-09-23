@@ -1,2 +1,156 @@
-{"homepage_data": {"cookies": [{"name": "AUTH_SESSION_ID", "value": "e6bc2ea4-f33a-4d32-8239-87b5f86389d4", "domain": "sso.arbeitsagentur.de", "path": "/auth/realms/OCP/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "None"}, {"name": "AUTH_SESSION_ID_LEGACY", "value": "e6bc2ea4-f33a-4d32-8239-87b5f86389d4", "domain": "sso.arbeitsagentur.de", "path": "/auth/realms/OCP/", "expires": -1, "httpOnly": true, "secure": false, "sameSite": "Lax"}, {"name": "KEYCLOAK_IDENTITY", "value": "eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2YTU2ZWQ4Ny1jNDJhLTI2OWQtYzY4Ny0zZWM4Y2M1ZTEyMWMifQ.eyJleHAiOjE3MjcxMzk1NTgsImlhdCI6MTcyNzA5NjM1OCwianRpIjoiNDJlOWQxMWItOGZjNC00NDhmLWIxNjUtOWY2NTJhZmUxMTAwIiwiaXNzIjoiaHR0cHM6Ly9zc28uYXJiZWl0c2FnZW50dXIuZGUvYXV0aC9yZWFsbXMvT0NQIiwic3ViIjoidXJuOmVraWQ6OGNjMDk0NjYtMmQxMS00ZWJiLWI5YTgtY2JlOTg5ZTg0ODgwIiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNpZCI6ImU2YmMyZWE0LWYzM2EtNGQzMi04MjM5LTg3YjVmODYzODlkNCIsInN0YXRlX2NoZWNrZXIiOiJzd000MXF2Q1N6X0VuMGhZYjF1eHFVRDZwVFJ0OC02SFVBRHlfSjJwUlF3In0.KQiu5ov-3XFNyAnim9nOzXbEHY5GJbvLrTRf1lHkQDKOP2NJr-BgF2rXmS1Sdsj_ZViRAy6lG-B9n0lecsEkWw", "domain": "sso.arbeitsagentur.de", "path": "/auth/realms/OCP/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "None"}, {"name": "KEYCLOAK_IDENTITY_LEGACY", "value": "eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2YTU2ZWQ4Ny1jNDJhLTI2OWQtYzY4Ny0zZWM4Y2M1ZTEyMWMifQ.eyJleHAiOjE3MjcxMzk1NTgsImlhdCI6MTcyNzA5NjM1OCwianRpIjoiNDJlOWQxMWItOGZjNC00NDhmLWIxNjUtOWY2NTJhZmUxMTAwIiwiaXNzIjoiaHR0cHM6Ly9zc28uYXJiZWl0c2FnZW50dXIuZGUvYXV0aC9yZWFsbXMvT0NQIiwic3ViIjoidXJuOmVraWQ6OGNjMDk0NjYtMmQxMS00ZWJiLWI5YTgtY2JlOTg5ZTg0ODgwIiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNpZCI6ImU2YmMyZWE0LWYzM2EtNGQzMi04MjM5LTg3YjVmODYzODlkNCIsInN0YXRlX2NoZWNrZXIiOiJzd000MXF2Q1N6X0VuMGhZYjF1eHFVRDZwVFJ0OC02SFVBRHlfSjJwUlF3In0.KQiu5ov-3XFNyAnim9nOzXbEHY5GJbvLrTRf1lHkQDKOP2NJr-BgF2rXmS1Sdsj_ZViRAy6lG-B9n0lecsEkWw", "domain": "sso.arbeitsagentur.de", "path": "/auth/realms/OCP/", "expires": -1, "httpOnly": true, "secure": false, "sameSite": "Lax"}, {"name": "KEYCLOAK_SESSION", "value": "\"OCP/urn%3Aekid%3A8cc09466-2d11-4ebb-b9a8-cbe989e84880/e6bc2ea4-f33a-4d32-8239-87b5f86389d4\"", "domain": "sso.arbeitsagentur.de", "path": "/auth/realms/OCP/", "expires": 1727139558.488637, "httpOnly": false, "secure": true, "sameSite": "None"}, {"name": "KEYCLOAK_SESSION_LEGACY", "value": "\"OCP/urn%3Aekid%3A8cc09466-2d11-4ebb-b9a8-cbe989e84880/e6bc2ea4-f33a-4d32-8239-87b5f86389d4\"", "domain": "sso.arbeitsagentur.de", "path": "/auth/realms/OCP/", "expires": 1727139558.488993, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "cookie_consent", "value": "accepted", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1729688356.331468, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "personalization_consent", "value": "accepted", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1729688356.331786, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "marketing_consent", "value": "accepted", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1742648356.332052, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "web", "value": "022306fef3-7881-4fdAv_J_2jCdC1RlZQbqqPgVdJ3yvRRBKclZ-5uDUIprG2aEqyYRi4OUlC4Eez7ZEEvYk", "domain": "web.arbeitsagentur.de", "path": "/", "expires": -1, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "sso", "value": "02f0ea1237-639e-4dft6FTuZ7JbvAAfPeRDizkwcR-LWjbZCBsdKHHagbb3pdjVPQfohYobA0G9Srk-BM7c4", "domain": "sso.arbeitsagentur.de", "path": "/", "expires": -1, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "_pk_id.1032.cfae", "value": "befa21d217280071.1727096353.", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1761051553, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "rest", "value": "024dae17b4-4300-45jyltqdo9d38tpH75njzcF_lA9FkJbYiPwi_O6UA8KQ5yQ16GGe9eTh-6jkdo81QbEHg", "domain": "sso.arbeitsagentur.de", "path": "/", "expires": -1, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "oiamsession", "value": "eyJpbnN0YW5jZSI6ImU2M2EyZDI5LTI1NmYtMzZkMy1mYTNlLTNkOTBmZGRmMzhmYyIsImNsaWVudGlkIjoicHJvZmlsLW9ubGluZSIsImF1dGhubGV2ZWwiOiJTVE9SSy1RQUEtTGV2ZWwtMSIsImFjdGluZ09uQmVoYWxmT2YiOlsidXJuOmJhZm9yOnN0ZXA6YmV0cmllYjprdW5kZW5udW1tZXI6QTk5OUE1MDQ0MSJdLCJhY3RpbmdUeXBlIjoidW50ZXJuZWhtZW4iLCJtYXhzdGFydCI6MTcyNzA5NjM1OCwiaWRsZXN0YXJ0IjoxNzI3MDk2MzYwMjQ4fQ==", "domain": ".arbeitsagentur.de", "path": "/", "expires": -1, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "_pk_ses.1032.cfae", "value": "1", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1727098162, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "wwwarbeitsagentur", "value": "0227eab218-f9b5-46M3oj_Th9wNfbr7yLB3d_xaGLIpE6Vf3lJb9o4p6d35-_5Le3eBCw9U9-E1rvonyZ140", "domain": "www.arbeitsagentur.de", "path": "/", "expires": -1, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "_pk_id.1000.cfae", "value": "b775aae1c328d19b.1727096369.", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1761051569, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "_pk_ses.1000.cfae", "value": "1", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1727098168, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "dropsolidCapture", "value": "%7B%22uuid%22%3A%220fc3f0a5-29e8-4c13-9f95-5b4ca7d00a25%22%2C%22domain%22%3A%22www.arbeitsagentur.de%22%2C%22hostName%22%3A%22www.arbeitsagent
-ur.de%22%2C%22created%22%3A%222024-09-23T12%3A59%3A29.505Z%22%2C%22cdpUuid%22%3A%22c1871227-7704-4522-b950-46b0dc12a0db%22%7D", "domain": ".arbeitsagentur.de", "path": "/", "expires": 1727097689, "httpOnly": false, "secure": false, "sameSite": "Lax"}]}, "login_data": {"request_headers": {"accept": "application/json", "accept-encoding": "gzip, deflate, br, zstd", "accept-language": "en-US,en;q=0.9", "connection": "keep-alive", "content-length": "415", "content-type": "application/x-www-form-urlencoded", "cookie": "AUTH_SESSION_ID=e6bc2ea4-f33a-4d32-8239-87b5f86389d4; AUTH_SESSION_ID_LEGACY=e6bc2ea4-f33a-4d32-8239-87b5f86389d4; KEYCLOAK_IDENTITY=eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2YTU2ZWQ4Ny1jNDJhLTI2OWQtYzY4Ny0zZWM4Y2M1ZTEyMWMifQ.eyJleHAiOjE3MjcxMzk1NTgsImlhdCI6MTcyNzA5NjM1OCwianRpIjoiNDJlOWQxMWItOGZjNC00NDhmLWIxNjUtOWY2NTJhZmUxMTAwIiwiaXNzIjoiaHR0cHM6Ly9zc28uYXJiZWl0c2FnZW50dXIuZGUvYXV0aC9yZWFsbXMvT0NQIiwic3ViIjoidXJuOmVraWQ6OGNjMDk0NjYtMmQxMS00ZWJiLWI5YTgtY2JlOTg5ZTg0ODgwIiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNpZCI6ImU2YmMyZWE0LWYzM2EtNGQzMi04MjM5LTg3YjVmODYzODlkNCIsInN0YXRlX2NoZWNrZXIiOiJzd000MXF2Q1N6X0VuMGhZYjF1eHFVRDZwVFJ0OC02SFVBRHlfSjJwUlF3In0.KQiu5ov-3XFNyAnim9nOzXbEHY5GJbvLrTRf1lHkQDKOP2NJr-BgF2rXmS1Sdsj_ZViRAy6lG-B9n0lecsEkWw; KEYCLOAK_IDENTITY_LEGACY=eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2YTU2ZWQ4Ny1jNDJhLTI2OWQtYzY4Ny0zZWM4Y2M1ZTEyMWMifQ.eyJleHAiOjE3MjcxMzk1NTgsImlhdCI6MTcyNzA5NjM1OCwianRpIjoiNDJlOWQxMWItOGZjNC00NDhmLWIxNjUtOWY2NTJhZmUxMTAwIiwiaXNzIjoiaHR0cHM6Ly9zc28uYXJiZWl0c2FnZW50dXIuZGUvYXV0aC9yZWFsbXMvT0NQIiwic3ViIjoidXJuOmVraWQ6OGNjMDk0NjYtMmQxMS00ZWJiLWI5YTgtY2JlOTg5ZTg0ODgwIiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNpZCI6ImU2YmMyZWE0LWYzM2EtNGQzMi04MjM5LTg3YjVmODYzODlkNCIsInN0YXRlX2NoZWNrZXIiOiJzd000MXF2Q1N6X0VuMGhZYjF1eHFVRDZwVFJ0OC02SFVBRHlfSjJwUlF3In0.KQiu5ov-3XFNyAnim9nOzXbEHY5GJbvLrTRf1lHkQDKOP2NJr-BgF2rXmS1Sdsj_ZViRAy6lG-B9n0lecsEkWw; KEYCLOAK_SESSION=\"OCP/urn%3Aekid%3A8cc09466-2d11-4ebb-b9a8-cbe989e84880/e6bc2ea4-f33a-4d32-8239-87b5f86389d4\"; KEYCLOAK_SESSION_LEGACY=\"OCP/urn%3Aekid%3A8cc09466-2d11-4ebb-b9a8-cbe989e84880/e6bc2ea4-f33a-4d32-8239-87b5f86389d4\"; cookie_consent=accepted; personalization_consent=accepted; marketing_consent=accepted; sso=02f0ea1237-639e-4dft6FTuZ7JbvAAfPeRDizkwcR-LWjbZCBsdKHHagbb3pdjVPQfohYobA0G9Srk-BM7c4; _pk_id.1032.cfae=befa21d217280071.1727096353.", "host": "sso.arbeitsagentur.de", "origin": "https://web.arbeitsagentur.de", "referer": "https://web.arbeitsagentur.de/", "sec-fetch-dest": "empty", "sec-fetch-mode": "cors", "sec-fetch-site": "same-site", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36", "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"", "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": "\"Windows\""}, "request_body": {"grant_type": "authorization_code", "redirect_uri": "https://web.arbeitsagentur.de/profil/profil-ui/pd/", "code": "4cb995c8-91d1-4736-b35b-7c0c297e1254.e6bc2ea4-f33a-4d32-8239-87b5f86389d4.profil-online", "code_verifier": "5d41f067bd5847a98e8eb74edc89a3fd79b10121c1554a729c04df577e5ec56840f49918640045698e10dc652c11425e", "correlation-id": "e63a2d29-256f-36d3-fa3e-3d90fddf38fc", "client_id": "profil-online", "client_secret": "profil-online"}, "response_body": {"access_token": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJUbmV0NTNTYW9lMUExSGtoRzlpU1I2OXNoZ2pqN3dUSmtzVHFuR1paUElZIn0.eyJleHAiOjE3MjcwOTY1OTksImlhdCI6MTcyNzA5NjM1OSwiYXV0aF90aW1lIjoxNzI3MDk2MzU4LCJqdGkiOiJhZGU4OGRkOC0wZDA3LTQzZGEtOTA2YS04OGY5YTRiM2RlNWQiLCJpc3MiOiJodHRwczovL3Nzby5hcmJlaXRzYWdlbnR1ci5kZS9hdXRoL3JlYWxtcy9PQ1AiLCJhdWQiOiJwcm9maWwtb25saW5lIiwic3ViIjoidXJuOmVraWQ6OGNjMDk0NjYtMmQxMS00ZWJiLWI5YTgtY2JlOTg5ZTg0ODgwIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoicHJvZmlsLW9ubGluZSIsInNpZCI6ImU2YmMyZWE0LWYzM2EtNGQzMi04MjM5LTg3YjVmODYzODlkNCIsInNjb3BlIjoib3BlbmlkIGJhcG9ydGFsIiwiYmVudXR6ZXJ0eXAiOiJvbmxpbmV1c2VyIiwiaWRlbnRpZmllciI6IkE5OTlBNTA0NDEiLCJhdXRobi1sZXZlbCI6IlNUT1JLLVFBQS1MZXZlbC0xIiwiYWN0aW5nLW9uLWJlaGFsZi1vZiI6WyJ1cm46YmFmb3I6c3RlcDpiZXRyaWViOmt1bmRlbm51bW1lcjpBOTk5QTUwNDQxIl0sImp3dC12ZXJzaW9uIjoiMi45IiwiaWRlbnRpdHkiOiJ1cm46YmFmb3I6dWJ2b25saW5lOnVudGVybmVobWVuc2Jldm9sbG1hZWNodGlndGVyOmJldm9sbG1hZWNodGlndGVyaWQ6N2NiYTcwOTgtYTlkYS00Mjk5LWE5MzgtMzQwNzQ2NjU4YmJhIiwiZ3JvdXBzIjpbInVybjpiYXJvbDp1YnZvbmxpbmU6YmV2b2xsbWFlY2h0aWd0ZSIsIjEiLCJ1cm46YmFyb2w6c3RlcDphbnNwcmVjaHBhcnRuZXIiLCJucmVnIiwidHlwZS51bnRlcm5laG1lbiIsInVybjpiYXJvbDp1YnZvbmxpbmU6YWRtaW4iLCJwcm9maWwtb25saW5lLmxldmVsLTIwMCIsInVudGVybmVobWVuLmhhdXB0YWNjb3VudCJdLCJhY3RpbmctdHlwZSI6InVudGVybmVobWVuIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiY2xhdWRpb0Bqb2JndWFyZC5pbyIsInNlc3Npb25fc3RhdGUiOiJlNmJjMmVhNC1mMzNhLTRkMzItODIzOS04N2I1Zjg2Mzg5ZDQiLCJhY3RpbmctcHJvZmlsZS1uYW1lIjoiSm9iIEd1YXJkaWFuIE_DnCJ9.UQMMDgrXNRJvjIfcxblfG_eBUNa8L_cvbo3v92sDsef2Lngy30Olq_J9yc5vML0VsjtC7KiQaBseHdMt6G1SQssba-ZR6j-4_d5wNrLC1LVDaYsW7Drte7WOW8lVKbz_U3-ZezHu-e_YE1cEZqq_r3uyxDZqg_sLxp2_DkQJwIrPe2bWmgCSVXIJu_SC7KSfa785uGc1tUpKjosuD_no2N_pIVuzDuraMyH-9FHWlDlnq_NcVzpacEoE3ipBo8AtYS1AEccWUUBUdYe4-uSBrRLwn5eLg_0UnWCUUnJOcI_HcXUnSmStTSCrzbVNzGHbujvYuaNuK-yl4kkn3sCZAZOkgDRYv8XfOT6MORaHJqKeFdBHOL8rtGP_hOLeWFlgVO7ECRK63C27i1Y9FEy5kg_Uc-6foEn7nrOZuiS7uufgOEJrjdopaGNhOzz5gCJP7HxYbBa_ndxHDEIfOEenMoKpdozSUO27uMHGCrJqF8BjVD1iiuHdcxw5-IotXETpmC8NU7iGielSrsjvx_1SHv09lgXU1d8bxQoECxZMPVVSLd1GYm3CKnDnqCTwGRyaTo5rcryzQTsB7LB8tqjO4t971HKSWCLJM5pnQRvmzhM2_3a6xrZMLQD6g0tbhCMKA3llE2csY8Sn7M8QT7JM4-q_8HBDP3ayrTeC6Hm_PS0", "expires_in": 240, "refresh_expires_in": 3600, "refresh_token": "eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2YTU2ZWQ4Ny1jNDJhLTI2OWQtYzY4Ny0zZWM4Y2M1ZTEyMWMifQ.eyJleHAiOjE3MjcwOTk5NTksImlhdCI6MTcyNzA5NjM1OSwianRpIjoiOWI1Y2QwYTQtMDg0Ny00MTcyLWIwZWQtZjMzNzliYTFmN2VhIiwiaXNzIjoiaHR0cHM6Ly9zc28uYXJiZWl0c2FnZW50dXIuZGUvYXV0aC9yZWFsbXMvT0NQIiwiYXVkIjoiaHR0cHM6Ly9zc28uYXJiZWl0c2FnZW50dXIuZGUvYXV0aC9yZWFsbXMvT0NQIiwic3ViIjoidXJuOmVraWQ6OGNjMDk0NjYtMmQxMS00ZWJiLWI5YTgtY2JlOTg5ZTg0ODgwIiwidHlwIjoiUmVmcmVzaCIsImF6cCI6InByb2ZpbC1vbmxpbmUiLCJzaWQiOiJlNmJjMmVhNC1mMzNhLTRkMzItODIzOS04N2I1Zjg2Mzg5ZDQiLCJzY29wZSI6Im9wZW5pZCBiYWRlZmF1bHQgYmFwb3J0YWwgYmFzaWMiLCJyZXVzZV9pZCI6ImQ5MDhkNzk3LTY3ODQtNDZiNy04ZmY0LTA1NWNlMGNiYjRjMiJ9.LgFY-Dcd0JV3npBhNzpLvLgeXj_D6ffUJCfBcHbr1k7QZqMT12mcZRVJjhAXsGVXZqA2Qffu3DPov4eP5sP3vg", "token_type": "Bearer", "id_token": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJUbmV0NTNTYW9lMUExSGtoRzlpU1I2OXNoZ2pqN3dUSmtzVHFuR1paUElZIn0.eyJleHAiOjE3MjcwOTY1OTksImlhdCI6MTcyNzA5NjM1OSwiYXV0aF90aW1lIjoxNzI3MDk2MzU4LCJqdGkiOiJkMzZmZGViNi1lYzhhLTQ5NDktYTJiMi0xOWE5MWViM2Q1NjQiLCJpc3MiOiJodHRwczovL3Nzby5hcmJlaXRzYWdlbnR1ci5kZS9hdXRoL3JlYWxtcy9PQ1AiLCJhdWQiOiJwcm9maWwtb25saW5lIiwic3ViIjoidXJuOmVraWQ6OGNjMDk0NjYtMmQxMS00ZWJiLWI5YTgtY2JlOTg5ZTg0ODgwIiwidHlwIjoiSUQiLCJhenAiOiJwcm9maWwtb25saW5lIiwic2lkIjoiZTZiYzJlYTQtZjMzYS00ZDMyLTgyMzktODdiNWY4NjM4OWQ0IiwiYXRfaGFzaCI6IlZaZjFmMjkxZ25sSzN1MGVMN1FsdXciLCJzZXNzaW9uX3N0YXRlIjoiZTZiYzJlYTQtZjMzYS00ZDMyLTgyMzktODdiNWY4NjM4OWQ0In0.ShSCc0cgQfJ3Kc38OKFecw6jQtNxbBhKAzK3dPkkOOn0eX3034GrjoKeAM5UDdcph9v8OnKAJnZyrCKwJAi2-HGVdA0l1Mg0Y6uTfg59q51hzHAIBjZpH1ZYae19Ed9jrfwZfoCOpnykobbLrBVM-yz6VBEtmsnsreRyPSM5ksGWJuLSSmDinsdH0I4jIt5l1GeyzZBUdaCCQKu5qQmC5jRsXBOXt_aBB5rw8-eDzKfhDDtjysGMxgQTgD-vwINdiSHMJcsUYnB8MWlAxwAIO0iKVHa0ByUJmJeZlRsd-KQ2IRNl8hL82fhmH5PDNy7ve59DPmfFppJ1dlyMJtxUFzPTVv3VHl8sfOCSDBXopz1P-prU1PVMHt4N3YKTe3wdR01_zlyuQ2yAhT0NHyTtiGZAH0IdYjXMt4F3K4t0UmH3-VRfFrYgvDqSN7ShoMCvcnDr_gG1tGfCisyiUxhCWpPgkFkTeagLt3XIWFwqFcbJaPvYa_lwOBqJQvIa_NdDbg5YBndwqW-p_vu33_URIEB_6J2wpblycvIy6XerQr6HwvxKwGFaXqeBu486F8LKpCJ-QjYxP0K84-BYwpO33FC3GkURbnh_TA4fI-K5mzC00J8vtliKJxIdCGv_FbKlASJDu4IzBVgiqRDYeOje93dUAbyqJyXRq2I-5kV-Zxw", "not-before-policy": 0, "session_state": "e6bc2ea4-f33a-4d32-8239-87b5f86389d4", "scope": "openid baportal"}}}
+[
+    {
+        "https://www.arbeitsagentur.de/bewerberboerse/bewerberdetail/10000-1200186703-B": {
+            "personal_details": null,
+            "general_details": {
+                "refnr": "10000-1200186273-B",
+                "stellenart": "ARBEIT",
+                "erwartungAnDieStelle": "IncomingCC",
+                "aktualisierungsdatum": "2024-09-23T14:58:46.649",
+                "veroeffentlichungsdatum": "2024-09-23",
+                "verfuegbarkeitVon": "2024-09-23",
+                "abschluss": "Allgemeine Hochschulreife",
+                "sucheNurSchwerbehinderung": false,
+                "entfernungMaxKriterium": "NACH_UMKREIS",
+                "vertragsdauer": "ALLE",
+                "suchtGeringfuegigeBeschaeftigung": "Keine geringf\u00fcgigen Besch\u00e4ftigungen/ Mini-Jobs",
+                "lokationen": [
+                    {
+                        "land": "Deutschland"
+                    }
+                ],
+                "arbeitszeitModelle": [
+                    "VOLLZEIT"
+                ],
+                "berufe": [
+                    "Lebensmittelsachverst\u00e4ndige/r"
+                ],
+                "werdegang": [
+                    {
+                        "von": "2024-01-29",
+                        "bis": "2024-07-23",
+                        "land": "Spanien",
+                        "berufsbezeichnung": "Lebensmitteltechnische/r Assistent/in",
+                        "lebenslaufart": "Berufspraxis",
+                        "lebenslaufartenKategorie": "WERDEGANG"
+                    }
+                ],
+                "bildung": [
+                    {
+                        "von": "2018-09-10",
+                        "bis": "2024-07-23",
+                        "land": "Deutschland",
+                        "berufsbezeichnung": "Bachelor of Engineering - Lebensmitteltechnik",
+                        "istAbgeschlossen": "Ja",
+                        "hochSchulAbschluss": "Bachelor",
+                        "lebenslaufart": "Studium",
+                        "lebenslaufartenKategorie": "AUSBILDUNG"
+                    }
+                ],
+                "sprachkenntnisse": {
+                    "Verhandlungssicher": [
+                        "Englisch",
+                        "Spanisch"
+                    ],
+                    "Erweiterte Kenntnisse": [
+                        "Russisch",
+                        "Deutsch"
+                    ]
+                },
+                "ausbildungen": [
+                    {
+                        "jahr": 2024,
+                        "art": "Bachelor of Engineering - Lebensmitteltechnik"
+                    }
+                ],
+                "erfahrung": {
+                    "berufsfeldErfahrung": [
+                        {
+                            "berufsfeld": "Lebensmittel- und Genussmittelherstellung",
+                            "erfahrung": "P5M24D"
+                        }
+                    ],
+                    "gesamterfahrung": "P5M24D"
+                }
+            },
+            "response_text": []
+        }
+    },
+    {
+        "https://www.arbeitsagentur.de/bewerberboerse/bewerberdetail/10000-1200186273-B": {
+            "personal_details": null,
+            "general_details": {
+                "refnr": "10000-1200186273-B",
+                "stellenart": "ARBEIT",
+                "erwartungAnDieStelle": "IncomingCC",
+                "aktualisierungsdatum": "2024-09-23T14:58:46.649",
+                "veroeffentlichungsdatum": "2024-09-23",
+                "verfuegbarkeitVon": "2024-09-23",
+                "abschluss": "Allgemeine Hochschulreife",
+                "sucheNurSchwerbehinderung": false,
+                "entfernungMaxKriterium": "NACH_UMKREIS",
+                "vertragsdauer": "ALLE",
+                "suchtGeringfuegigeBeschaeftigung": "Keine geringf\u00fcgigen Besch\u00e4ftigungen/ Mini-Jobs",
+                "lokationen": [
+                    {
+                        "land": "Deutschland"
+                    }
+                ],
+                "arbeitszeitModelle": [
+                    "VOLLZEIT"
+                ],
+                "berufe": [
+                    "Lebensmittelsachverst\u00e4ndige/r"
+                ],
+                "werdegang": [
+                    {
+                        "von": "2024-01-29",
+                        "bis": "2024-07-23",
+                        "land": "Spanien",
+                        "berufsbezeichnung": "Lebensmitteltechnische/r Assistent/in",
+                        "lebenslaufart": "Berufspraxis",
+                        "lebenslaufartenKategorie": "WERDEGANG"
+                    }
+                ],
+                "bildung": [
+                    {
+                        "von": "2018-09-10",
+                        "bis": "2024-07-23",
+                        "land": "Deutschland",
+                        "berufsbezeichnung": "Bachelor of Engineering - Lebensmitteltechnik",
+                        "istAbgeschlossen": "Ja",
+                        "hochSchulAbschluss": "Bachelor",
+                        "lebenslaufart": "Studium",
+                        "lebenslaufartenKategorie": "AUSBILDUNG"
+                    }
+                ],
+                "sprachkenntnisse": {
+                    "Verhandlungssicher": [
+                        "Englisch",
+                        "Spanisch"
+                    ],
+                    "Erweiterte Kenntnisse": [
+                        "Russisch",
+                        "Deutsch"
+                    ]
+                },
+                "ausbildungen": [
+                    {
+                        "jahr": 2024,
+                        "art": "Bachelor of Engineering - Lebensmitteltechnik"
+                    }
+                ],
+                "erfahrung": {
+                    "berufsfeldErfahrung": [
+                        {
+                            "berufsfeld": "Lebensmittel- und Genussmittelherstellung",
+                            "erfahrung": "P5M24D"
+                        }
+                    ],
+                    "gesamterfahrung": "P5M24D"
+                }
+            },
+            "response_text": []
+        }
+    }
+]
