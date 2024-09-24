@@ -1,1 +1,4 @@
-/config.py
+config.py
+*.pyc
+output/
+input/
