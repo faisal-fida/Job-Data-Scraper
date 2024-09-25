@@ -1,8 +1,9 @@
 import os
 import logging
-import requests
 from typing import List
 from config import initial_url, url_cookies, url_headers
+
+import requests
 
 logger = logging.getLogger(__name__)
 

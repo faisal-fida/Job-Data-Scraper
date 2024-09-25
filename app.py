@@ -1,13 +1,7 @@
 import logging
 import json
 from typing import List, Dict, Any
-from playwright.sync_api import (
-    sync_playwright,
-    Page,
-    Browser,
-    BrowserContext,
-    TimeoutError,
-)
+
 from config import (
     playwright_cookies,
     login_email,
@@ -15,6 +9,15 @@ from config import (
 )
 from url_fetcher import fetch_urls
 from data_parser import extract_and_save_data
+
+from playwright.sync_api import (
+    sync_playwright,
+    Page,
+    Browser,
+    BrowserContext,
+    TimeoutError,
+)
+
 
 logging.basicConfig(
     level=logging.INFO,
