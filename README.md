@@ -53,64 +53,16 @@ This project is a job data scraper that extracts job applicant details from the 
     pip install -r requirements.txt
     ```
 
+5. Download the Playwright browser driver:
+
+    ```sh
+    python -m playwright install chrome
+    ```
+
 ## Configuration
 
-Update the 
+Copy the config.py file to the same directory as app.py and url_fetcher.py.
 
-config.py
-
- file with your login credentials and other necessary configurations:
-
-```python
-login_email = "your_email@example.com"
-login_password = "your_password"
-playwright_login_url = "https://web.arbeitsagentur.de/profil/profil-ui/pd/"
-playright_homepage_url = "https://www.arbeitsagentur.de/"
-
-playwright_cookies = [
-    {
-        "name": "cookie_consent",
-        "value": "accepted",
-        "domain": ".arbeitsagentur.de",
-        "path": "/",
-    },
-    {
-        "name": "personalization_consent",
-        "value": "accepted",
-        "domain": ".arbeitsagentur.de",
-        "path": "/",
-    },
-    {
-        "name": "marketing_consent",
-        "value": "accepted",
-        "domain": ".arbeitsagentur.de",
-        "path": "/",
-    },
-]
-
-initial_url = "https://rest.arbeitsagentur.de/jobboerse/bewerbersuche-service/pc/v1/bewerber?angebotsart=1&veroeffentlichtseit=7&erreichbarkeit=E-Mail&page={}&size=25&facetten=veroeffentlichtseit,arbeitszeit,erreichbarkeit"
-
-url_cookies = {
-    "cookie_consent": "accepted",
-    "personalization_consent": "accepted",
-    "marketing_consent": "accepted",
-}
-url_headers = {
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Connection": "keep-alive",
-    "Origin": "https://www.arbeitsagentur.de",
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Site": "same-site",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "X-API-Key": "jobboerse-bewerbersuche-ui",
-    "correlation-id": "84bd5b61-77e0-45cc-9583-a977b697bef8",
-    "sec-ch-ua": '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": '"Windows"',
-}
-```
 
 ## Usage
 
